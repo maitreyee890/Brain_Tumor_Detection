@@ -80,7 +80,7 @@ How to Run the Project
 
 Clone the repository:
 
-git clone https://github.com/maitreyee890/brain-tumor-detection.git
+git clone https://github.com/maitreyee890/brain-tumor-detection
 
 
 Install dependencies:
